@@ -1,4 +1,6 @@
+Set up
 
+```
 composer install 
 
 cp .env.example .env 
